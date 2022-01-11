@@ -1,0 +1,13 @@
+Introdução ao Git e Github
+O Git foi criado em 2005 por Linus Torvalds, pai do Linux também, para o versionamento de código. Linus enxergou uma oportunidade de criar uma ferramenta de versionamento muito mais prática e eficaz do que as existentes à época.
+
+As principais funções do Git são:
+1. Controle de versão
+2. Armazenamento em nuvem
+3. Trabalho em equipe
+4. Melhorar seu código (através de feedbacks recebidos de outros devs)
+5. Reconhecimento, afinal de contas "quem não é visto, não é lembrado"
+
+O Git é um software CLI (Command Line Interface), ou seja, a navegação é feita via linha de comando, diferente dos softawres GUI (Graphical User Interface) onde a interface gráfica facilita a sua utilização.
+
+Através do Git é possível realizar a integração com o Github, onde seus projetos podem ser compartilhados com o mundo todo, tornando a integração com os demais usuários extremamente importante.
